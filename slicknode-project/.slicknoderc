@@ -1,0 +1,11 @@
+{
+  "default": {
+    "endpoint": "https://slicknode-project-8402a9fd.us-east1.slicknode.com",
+    "version": "UHJvamVjdFZlcnNpb246OTk",
+    "alias": "slicknode-project-8402a9fd",
+    "consoleUrl": "https://console.slicknode.com/p/slicknode-project-8402a9fd",
+    "playgroundUrl": "https://console.slicknode.com/p/slicknode-project-8402a9fd/playground",
+    "name": "slicknode-project",
+    "id": "UHJvamVjdDoyOA"
+  }
+}

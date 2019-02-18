@@ -1,0 +1,5 @@
+dependencies:
+  '@private/playstation': ./modules/playstation
+  auth: latest
+  core: latest
+  relay: latest

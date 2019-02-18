@@ -1,0 +1,7 @@
+type Playstation_Game implements Node {
+   id: ID!
+   title: String!
+   date: String!
+   description: String!
+   url: String! 
+}

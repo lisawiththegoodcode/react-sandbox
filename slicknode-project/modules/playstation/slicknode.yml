@@ -1,0 +1,4 @@
+module:
+  id: '@private/playstation'
+  label: Playstation
+  namespace: Playstation

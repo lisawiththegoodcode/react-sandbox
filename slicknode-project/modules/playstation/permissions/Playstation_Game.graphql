@@ -1,0 +1,13 @@
+query Playstation_GamePermission1 {
+  scope(role: ANONYMOUS, operations: [READ])
+}
+
+
+query Playstation_GamePermission2 {
+  scope(role: STAFF, operations: [CREATE, UPDATE, DELETE])
+}
+
+
+query Playstation_GamePermission3 {
+  scope(role: RUNTIME, operations: [CREATE, UPDATE, DELETE, READ])
+}
